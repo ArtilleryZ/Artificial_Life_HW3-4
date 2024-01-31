@@ -10,3 +10,5 @@ Leaves will be generated randomly on the branch with random x_pos(which determin
 The motion of leaves is the same in hw2, which is just a random pick from a cosine wave.  
 
 To run this, run `hw4_xml_generator.py` first and it will create a xml file called `hw4.xml`, then use `hw4.py` to visualize the result.
+
+Video link:https://youtu.be/4A2QkMlzPYs
